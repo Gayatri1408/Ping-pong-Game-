@@ -1,4 +1,4 @@
-echo "# Multiplayer Ping Pong Game
+# Multiplayer Ping Pong Game
 
 A real-time multiplayer ping pong game where two players can control paddles using different browsers. The game features scoring, bouncing ball mechanics, and randomly placed obstacles.
 
